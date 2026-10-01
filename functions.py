@@ -15,7 +15,7 @@ def is_palindrome(text):
 
 def find_heaviest_hippo(hippos):
     """
-    Returns the weight of the heaviest hippo 
+    Returns the name of the heaviest hippo 
     in a list of hippo dictionaries
 
     Args:
